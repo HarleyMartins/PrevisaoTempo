@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="HarleyMartins">
+    <meta name="description" content="Quer saber como está o tempo na sua cidade ou em outras cidades?? Veja agora!">
+    <meta name="keywords" content="previsão climática, tempo, clima">
+    <title>Previsão do Tempo</title>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="shortcut icon" href="./assets/favicon/weather.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500;700&display=swap" rel="stylesheet">
+    <script src="./script.js" defer></script>
+    
+
+</head>
+<body>
+    
+
+<div class="card">
+    <input class="card__input" type="text" placeholder="Digite o nome da Cidade">
+    <button class="card__button" onclick="takeCity()">
+        <img src="https://www.svgrepo.com/show/488200/find.svg" alt="lupa">
+    </button>
+
+    <div class="card--city">
+        <h2 class="c-city__cidade"></h2>
+        <p class="c-city__time"></p>
+
+    <div class="card--icon">
+        <img class="c-icon__img" src="" >
+        <p class="c-icon__prev"></p>
+        
+    </div>
+  </div>  
+<p class="c-icon__umid"></p>
+</div>
+
+
+</body>
+</html>

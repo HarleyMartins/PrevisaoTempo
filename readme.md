@@ -1,7 +1,7 @@
 <h1 align="center"> Previsão do Tempo </h1>
 
 <p align="center">
-Veja a situação climática de qualquer lugar<br/>
+Veja a situação climática de qualquer lugar⛈<br/>
 </p>
 
 <p align="center">

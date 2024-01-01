@@ -1,4 +1,4 @@
-![image](https://github.com/HarleyMartins/PrevisaoTempo/assets/98661637/e187d2d7-555f-4a46-ad96-954621c20425)<h1 align="center"> Previsão do Tempo </h1>
+<h1 align="center"> Previsão do Tempo </h1>
 
 <p align="center">
 Veja a situação climática de qualquer lugar⛈<br/>
